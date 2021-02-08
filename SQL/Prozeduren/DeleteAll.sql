@@ -1,0 +1,4 @@
+CREATE PROCEDURE `DeleteAll` ()
+BEGIN
+	DELETE FROM Spiel;
+END
